@@ -10,11 +10,14 @@ It allows users to choose which files they want to keep track of
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By using git diff, we could keep track of the changes in working directory and staging area. Then, we could manually add one commit to the staging are. After that, we could submit the commit to the repository
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+We want to try new idea on the project which we might not sure how it works out. In that case, we use branch to keep track of that version of the project and differentiate it from the main project. Later on, if we consider that idea is good enough, we could merge it back to the main project
 
 How do the diagrams help you visualize the branch structure?
+It shows the relationships between commits and branches. We could spot which is the master, which is extending branches and where it started sprouting out.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
