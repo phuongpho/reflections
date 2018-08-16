@@ -19,8 +19,8 @@ We want to try new idea on the project which we might not sure how it works out.
 How do the diagrams help you visualize the branch structure?
 It shows the relationships between commits and branches. We could spot which is the master, which is extending branches and where it started sprouting out.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch would get addition of commit from the other branch. They are ordered according to the time stamps. When we merge two branches, some commits might be unreachable. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
