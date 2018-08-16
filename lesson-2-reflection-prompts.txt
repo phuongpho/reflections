@@ -24,3 +24,5 @@ One branch would get addition of commit from the other branch. They are ordered 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros: Save time and effort in examining changes at different locations
+Cons: Can't handle conflict automatically. 
