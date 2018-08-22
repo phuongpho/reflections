@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Without Git and GitHub, we must meet at a place and work on the project together. We also need to inform the others whenever we come up with changes and updates even for tiny ones. Then we have to send the updated files to everyone. 
 	With Git and GitHub, we are saved from these dull task of reporting every changes and sending files around. Each person could work on their branches and then merge them back. If there's a conflict, we then could see each other to discuss about it.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	We consider using branches When we collaborate with other people and each of us handle a different part of the project. Another motivation is when we want to try a new feature or experience without interupting the on going project. 
+	Working on branches offer more flexibility since we could try new ideas without worrying of crashing the main product. That being said, it might cause some conflict when we need to merge these branches together.
